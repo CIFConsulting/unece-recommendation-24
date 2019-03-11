@@ -209,7 +209,7 @@ Code,Name,Description
 216,"Delivery, awaiting customer arrangements",The goods/consignment/equipment require delivery arrangements by the customer.
 218,"Damaged",The goods/consignments/equipment have been damaged.
 219,"Delivery pending, awaiting specified dates/times/periods",Delivery of the goods/consignment/equipment is pending awaiting specified dates/times/periods.
-220,Destination incorrect",The goods/consignment/equipment has been sent to an incorrect destination.
+220,"Destination incorrect",The goods/consignment/equipment has been sent to an incorrect destination.
 222,"Derailment",The train has derailed.
 224,"Delivery, industrial dispute",The goods/consignment/equipment cannot be delivered due to an industrial dispute.
 225,"Operation affected by customer action",An operation has been affected by an action of the customer.
