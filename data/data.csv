@@ -1,6 +1,6 @@
 Code,Name,Description
 1,"Arrival, completed",The goods/consignment/equipment/means of transport has arrived.
-2,"Loading, authorized
+2,"Loading, authorized",Authorisation to load has been given.
 3,"Arrival, in defective condition",The goods/consignment/equipment or a means of transport has arrived in a defective condition.
 4,"Defective equipment returned to service",The equipment previously the subject of a 'defective condition' status has been returned to service.
 5,"Process, begun",The process has begun.
