@@ -1,0 +1,37 @@
+Code,Name,Description
+1,"Arrival, completed",The goods/consignment/equipment/means of transport has arrived.
+2,"Loading, authorized
+3,"Arrival, in defective condition",The goods/consignment/equipment or a means of transport has arrived in a defective condition.
+4,"Defective equipment returned to service",The equipment previously the subject of a 'defective condition' status has been returned to service.
+5,"Process, begun",The process has begun.
+6,"Booking, completed",The goods/consignment/equipment or means of transport has been booked.
+7,"Booking, cancelled",The booking of goods/consignment/equipment or means of transport has been cancelled.
+8,"Cleared, import restrictions",The goods/consignment/equipment/means of transport held for import restriction purposes, has been released for import.
+9,"Cleared, export restrictions",The goods/consignment/equipment/means of transport held for export restriction purposes, has been released for export.
+10,"Cleared, by agriculture, food or fisheries authorities",The goods/consignment/equipment/means of transport has been cleared by agriculture, food or fisheries authorities.
+11,"Cleared, by port authority",The goods/consignment/equipment/means of transport has been cleared by port authority.
+12,"Cleared, by customs",The goods/consignment/equipment/means of transport has been cleared by customs.
+13,"Collection/pick-up, completed",The goods/consignment/equipment has been collected/picked-up.
+14,"Process, completed",The process has been completed.
+15,"Consolidated",The goods/consignments have been consolidated.
+16,"Crossed border",The goods/consignments/equipment/means of transport has crossed a border. 
+17,"Customs clearance, refused",The goods/consignment/equipment/means of transport has been refused to be cleared by the customs authorities.
+18,"Damaged in the course of transportation",The goods/consignment/equipment has been damaged in the course of transportation.
+19,"Equipment, damage quoted for",Damaged equipment has been assessed and a repair quotation has been sent.
+20,"Delayed, in the course of transportation",The goods/consignment/equipment/means of transport has been delayed in the course of transportation.
+21,"Delivery, completed",The goods/consignment/equipment has been delivered.
+22,"Delivery, completed as per instruction",Delivery of the goods/consignment/equipment has been completed as per instruction.
+23,"Delivery, not completed",Delivery of the goods/consignment/equipment has not been completed.
+24,"Departure, completed",The means of transport has departed. 
+25,"Departure, delayed",The means of transport has been delayed in departure.
+26,"Deramped",The equipment has been removed from a position above another type of equipment and/or on a means of transport.
+27,"Despatch, completed",The goods/consignment/equipment has been despatched.
+28,"Stripped",The goods/consignment/equipment has been unloaded from a piece of equipment in which they were transported.
+29,"Unloaded",The goods/consignment/equipment has been unloaded from a means of transport.
+30,"Empty on inspection",The package/equipment has been found to be empty on inspection.
+31,"En route",The goods/consignment/equipment/means of transport is moving to destination.
+32,"Equipment, returned from repair",The equipment has been returned from repair.
+33,"Equipment, sent for repair",The equipment has been sent for repair.
+34,"Equipment, repaired",The equipment has been repaired.
+35,"Forwarded to destination",The goods/consignment/equipment has been forwarded to a destination.
+36,"Not found",The goods/consignment/equipment/means of transport has not been found.
