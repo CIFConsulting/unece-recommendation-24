@@ -256,13 +256,13 @@ Code,Name,Description
 281,"Delivery refused, instructions requested",The delivery was refused and instructions are requested.
 282,"Delivery refused, consignee's condition",The delivery was refused due to the consignee's condition.
 283,"Delivery refused, delivery incomplete",The delivery was refused due to incomplete delivery.
-284,"Delivery refused, not ordered",The delivery was refused, as the goods/consignment/equipment had not been ordered. 
+284,"Delivery refused, not ordered",The delivery was refused as the goods/consignment/equipment had not been ordered. 
 285,"Delivery refused, remainder not accepted",The delivery of the remaining goods was not accepted.
 286,"Delivery refused, spoilt state",The delivery was refused as the goods/consignment/equipment was in a spoilt state.
 287,"Missing, contents",The contents are missing.
 288,"Not on package list",The goods/consignment is not on the package list.
 291,"Delivery refused, collect freight charges not paid",The delivery was refused as the collect freight charges were not paid.
-292,"Delivery refused, reimbursement not paid",The delivery was refused, as the reimbursement was not paid.
+292,"Delivery refused, reimbursement not paid",The delivery was refused as the reimbursement was not paid.
 295,"Delivery refused, opened",The delivery was refused as the goods/consignment was found to be opened.
 297,"Delivery refused, commercial dispute",The delivery was refused because of a commercial dispute. 
 298,"Delivery refused, error on product or packaging",The delivery was refused as an error was found on product or packaging.
