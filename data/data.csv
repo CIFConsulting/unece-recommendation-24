@@ -250,7 +250,7 @@ Code,Name,Description
 275,"Delivery refused, purchase order cancelled",The delivery was refused as the purchase order has been cancelled.
 276,"Delivery refused, return to the consignor",The delivery was refused and the goods/consignment/equipment will be returned to the consignor.
 277,"Delivery refused, inconsistent with purchase order",The delivery was refused as an inconsistency with the purchase order was found.
-278,"Delivery refused, incorrect delivery date",The delivery was refused, as the delivery date was incorrect.
+278,"Delivery refused, incorrect delivery date",The delivery was refused as the delivery date was incorrect.
 279,"Delivery refused, automatic return",The delivery was refused and the goods/consignment/equipment is automatically returned as instructed.
 280,"Delivery refused, duplicate delivery",The delivery was refused because of duplicate delivery.
 281,"Delivery refused, instructions requested",The delivery was refused and instructions are requested.
@@ -261,7 +261,7 @@ Code,Name,Description
 286,"Delivery refused, spoilt state",The delivery was refused as the goods/consignment/equipment was in a spoilt state.
 287,"Missing, contents",The contents are missing.
 288,"Not on package list",The goods/consignment is not on the package list.
-291,"Delivery refused, collect freight charges not paid",The delivery was refused, as the collect freight charges were not paid.
+291,"Delivery refused, collect freight charges not paid",The delivery was refused as the collect freight charges were not paid.
 292,"Delivery refused, reimbursement not paid",The delivery was refused, as the reimbursement was not paid.
 295,"Delivery refused, opened",The delivery was refused as the goods/consignment was found to be opened.
 297,"Delivery refused, commercial dispute",The delivery was refused because of a commercial dispute. 
