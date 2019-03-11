@@ -1,6 +1,6 @@
 # unece-recommendation-24
 
-Coded representations of the package type names used in International Trade (UNECE/CEFACT Trade Facilitation Recommendation No.21)
+Coded representations of the package type names used in International Trade (UNECE/CEFACT Trade Facilitation Recommendation No.24)
 
 ## Data
 
