@@ -6,8 +6,8 @@ Code,Name,Description
 5,"Process, begun",The process has begun.
 6,"Booking, completed",The goods/consignment/equipment or means of transport has been booked.
 7,"Booking, cancelled",The booking of goods/consignment/equipment or means of transport has been cancelled.
-8,"Cleared, import restrictions",The goods/consignment/equipment/means of transport held for import restriction purposes, has been released for import.
-9,"Cleared, export restrictions",The goods/consignment/equipment/means of transport held for export restriction purposes, has been released for export.
+8,"Cleared, import restrictions",The goods/consignment/equipment/means of transport held for import restriction purposes has been released for import.
+9,"Cleared, export restrictions",The goods/consignment/equipment/means of transport held for export restriction purposes has been released for export.
 10,"Cleared, by agriculture, food or fisheries authorities",The goods/consignment/equipment/means of transport has been cleared by agriculture, food or fisheries authorities.
 11,"Cleared, by port authority",The goods/consignment/equipment/means of transport has been cleared by port authority.
 12,"Cleared, by customs",The goods/consignment/equipment/means of transport has been cleared by customs.
