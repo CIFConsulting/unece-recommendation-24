@@ -6,15 +6,7 @@ Coded representations of the package type names used in International Trade (UNE
 
 Source of information is from the UNECE website: http://www.unece.org/ro/tradewelcome/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/code-list-recommendations.html
 
-All data from UNECE has to be available in an easily distributable format, in this case it is an .xls file to process I simply removed any lines with a status of 'X' and removed the numeric code column as it's of little useable value
-
-Meaning of status codes:
-
-A plus sign (+) Added. New unit added in this release of the code list.;
-A hash sign (#) Changed name. Changes to the unit name in this release of the code list;
-A vertical bar (¦) Changed characteristic(s). Changes other than to the unit name in this release of the code list, e.g. a change to the numeric code.
-A letter X (X) Marked as deleted. Code entries marked as deleted will be retained indefinitely in the code lists. When appropriate, these entries may subsequently be reinstated via the maintenance process;
-An equals Reinstated. Code entries previously sign (=) Marked as deleted and reinstated in this release of the code list.
+Recommendation 24 provides Transport Status Codes to satisfy requirements for exchanging coded information about the status of consignments, goods or means of transport at a certain time or place in the transport chain. Representation of Transport Status Codes can be given in plain language or in coded form. The codes provided for in the Recommendation are for use in manual and/or automated systems of information exchange in international trade
 
 Requests for addition to the codes should be made to the Information Content Management Group (ICG) at cefact@unece.org
 
