@@ -241,7 +241,7 @@ Code,Name,Description
 265,"Reason unknown",The reason is unknown.
 266,"Delivery delayed, adverse weather conditions",Adverse weather conditions have delayed delivery.
 267,"Free storage time expired",The goods/consignment/equipment has been in a storage facility for longer than the permitted free time.
-269,"Delivery, consignee absent",The goods/consignment/equipment cannot be delivered, as the consignee was absent.
+269,"Delivery, consignee absent",The goods/consignment/equipment cannot be delivered as the consignee was absent.
 270,"Delayed operation, local circumstances",The operation is delayed due to local circumstances.
 271,"Delayed operation, consignee's instructions",The operation is delayed awaiting consignee's instructions.
 272,"Delayed operation, consignor's instructions",The operation is delayed awaiting consignor's instructions.
